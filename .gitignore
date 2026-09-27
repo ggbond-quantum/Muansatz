@@ -1,0 +1,6 @@
+# JUCE library
+JuceLibraryCode/
+Builds/
+*.jucer
+.vscode/
+.vs/
